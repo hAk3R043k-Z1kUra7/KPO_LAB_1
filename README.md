@@ -1,2 +1,2 @@
 # KPO_LAB_1
-KPO_LAB_1
+LAB_KPO_1
